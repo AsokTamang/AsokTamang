@@ -1,5 +1,5 @@
 #  About Me:
- Hi there 👋,I'm Asok.<br>I'm a cs graduate from sault college, Toronto,ON.<br>I am fullstack software developer.<br><br>
+ Hi there 👋,I'm Asok.<br>I'm a cs graduate from sault college, Toronto,ON.<br>I am a software engineer.<br><br>
 
 
 ## 🌐 Socials:
