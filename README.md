@@ -1,5 +1,5 @@
 #  About Me:
- Hi there 👋,I'm Asok.<br>I'm a cs graduate from sault college, Toronto,ON.<br>.
+ Hi there 👋,I'm Asok.<br>I'm a cs graduate from sault college, Toronto,ON.<br>
  <br>ML Engineer | Python, NumPy, scikit-learn, neural networks, supervised learning, gradient descent, model optimization. I build ML models from scratch and deploy production-ready solutions that solve real-world classification and prediction problems</br>
 
 
